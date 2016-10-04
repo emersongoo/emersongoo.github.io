@@ -33,7 +33,7 @@ table {
 /*** Basics ***/
 body {
 	font-family: Verdana, serif;
-	font-size: 13px;
+	font-size: 14px;
 	line-height: 1.7;
 }
 
@@ -47,7 +47,7 @@ a:hover {
 	color: #000000;
 }
 
-p, pre { margin-bottom: 15px; }
+p, pre { margin-bottom: 16px; }
 ul, ol { padding: 0 0 18px 30px; }
 ol li, ul li { margin-top: 10px; margin-bottom: 10px; }
 em, i { font-style: italic; }
@@ -77,15 +77,15 @@ acronym, abbr {
 
 
 h1 {
-	font-size: 17px;
+	font-size: 18px;
 	margin: 0 0 10px 0;
 }
 h2 {
-	font-size: 15px;
+	font-size: 16px;
 	margin: 0 0 10px 0;
 }
 h3 {
-	font-size: 14px;
+	font-size: 15px;
 	margin: 0 0 10px 0;
 }
 
@@ -274,7 +274,7 @@ img.center {
   text-transform: none;
   line-height: 1.7;
 }
- 
+
 .icon-sun:before { content: '\e801'; }
 .icon-anchor:before { content: '\e800'; }
 .icon-anchor {
