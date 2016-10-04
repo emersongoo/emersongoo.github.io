@@ -1,7 +1,6 @@
 ---
-layout: page
-title: About Me
-permalink: /about/
+layout: default
+title: About
 ---
 
 Hey there! I'm a high school student living in Hawaii that really likes to daydream about doing all sorts of things, and may occasionally begin (and on blue moons, finish) doing some of them.
