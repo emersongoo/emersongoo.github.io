@@ -15,4 +15,6 @@ This blog is my attempt to be a more careful documenter and curator of my life, 
 
 [itch.io](http://knottheory.itch.io/)
 
+[Letterboxd](http://letterboxd.com/KnotTheory/)
+
 [Steam](http://steamcommunity.com/id/knottheory/)
