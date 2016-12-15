@@ -1,44 +1,83 @@
-Solar Theme for Jekyll
-======================
+<p align="center">
+    <h2 align="center">Violet Jekyll Template - <a href="http://sergiokopplin.github.io/violet/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/violet"><img src="https://travis-ci.org/sergiokopplin/violet.svg?branch=gh-pages" alt="Build Status" /></a></h2>
+</p>
 
-A stylish theme for [Jekyll](http://jekyllrb.com/) blogs, based on the [Solarized](http://ethanschoonover.com/solarized) color palette.
+<p align="center">A purple theme for girls and boys.</p>
 
-![Screenshot](http://i.imgur.com/UnnRhkt.png)
+<p align="center"><strong>Inspiration</strong>: <a href="http://cyberglot.me">Ju Gonçalves</a></p>
 
+***
 
-Features
--------
+<p align="center">
+    <b><a href="README.md#what-has-inside">What has inside?</a></b>
+    |
+    <b><a href="README.md#setup">Setup?</a></b>
+    |
+    <b><a href="README.md#settings">Settings</a></b>
+    |
+    <b><a href="README.md#tests">Tests</a></b>
+    |
+    <b><a href="README.md#donate">Donate</a></b>
+    |
+    <b><a href="README.md#problems">Problems</a></b>
+</p>
 
-* **Two color schemes** — One for Solarized Dark and one for Solarized Light. Just swap the reference to the `colors-dark.css` file with `colors-light.css` if you don't like light-on-dark.
-* **Linkblog support** — Solar will turn your post title into an external link if you add `external-url: http://example.org` to a post's YAML front matter.
-* **Responsive Design** — Solarized adapts to fit any screen size.
+<p align="center">
+    <img src="https://raw.githubusercontent.com/sergiokopplin/violet/gh-pages/violet.png" />
+</p>
 
+## What has inside?
 
-Installation
---------------
+- [Jekyll](https://jekyllrb.com/), [Gulp](http://gulpjs.com/), [BrowserSync](https://www.browsersync.io/) and [Sass](http://sass-lang.com/)
+- Tests with [Travis](https://travis-ci.org/)
+- No JS. :sunglasses:
 
-There are two ways to use Solar. You can either clone-and-go, copying the repository and tweaking the contents to taste, or you can cherry-pick the files you want and integrate them into an existing Jekyll instance. 
+## Setup
 
-If you're starting a new blog, you want to clone-and-go. Just `git clone https://github.com/redwallhp/solar-theme-jekyll.git`, make any changes you want to the template, pages or `_config.yml` and start blogging with Jekyll. Easy.
+0. :star: to the project. :metal:
+1. [Install Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
+2. Fork the project [Violet](https://github.com/sergiokopplin/violet/fork)
+3. Edit `_config.yml` with your data.
+4. `bundle install`
+5. `npm i && npm i -g gulp`
+6. `gulp`
+7. open in your browser: `http://localhost:3000`
 
-If you're wanting to replace the theme of an existing Jekyll blog, either option should work. If you want to replace files individually, the files and directories you want to make sure to copy are:
+## Settings
 
-1. `_layouts`
-2. `archives`
-3. `assets`
-4. `feed.xml`
-5. `index.xml`
+You must fill some informations on `_config.yml` to customize your site.
 
-You'll also want to compare Solar's `_config.yml` with your own, making any appropriate changes.
+```
+name: Jane Doe
+bio: 'A Girl who travels the world eating noodles'
+...
 
+and lot of other options.
+```
 
-Demo
--------
+## Tests
 
-You can see a demo of Solar [right here on GitHub Pages.](http://mattvh.github.io/solar-theme-jekyll/)
+You can test your app with:
 
+```bash
+npm run test
+# or
+bundle exec htmlproof ./_site
+````
 
-License
----------
+## Donate
 
-GPLv2 or higher
+If you liked my work, buy me a coffee <3
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7B6UM6QWLG7E)
+
+## Problems?
+
+Tell me on github or open a [issue](https://github.com/sergiokopplin/violet/issues/new).
+
+#### Inspirations:
+- [Ju Gonçalves](http://cyberglot.me/)
+
+---
+
+[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
