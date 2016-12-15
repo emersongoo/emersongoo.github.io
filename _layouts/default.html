@@ -1,28 +1,29 @@
----
-layout: compress
----
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv=X-UA-Compatible content="IE=edge,chrome=1">
-  <meta name=viewport content="width=device-width, initial-scale=1">
 
-  <meta name=description content="{{ site.bio }}">
-  <meta name=author content="{{ site.name }}">
+	<head>
+		{% include head.html %}
+	</head>
 
-  {% seo %}
+	<body>
 
-  {% include favicon.html %}
+		{% include header.html %}
 
-  <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html','' }}">
+		<main>
+			{{ content | replace: '&#8617;', '&#8617;&#xfe0e;' }}
+		</main>
 
-  <style>
-    {% capture scss_sheet %}{% include style.scss %}{% endcapture %}
-    {{ scss_sheet | scssify }}
-  </style>
-</head>
-<body>
-  {{ content }}
-</body>
+		{% include footer.html %}
+
+		{% if page.path contains '_posts' %}
+
+			{% if content contains 'reversefootnote' %}
+				<aside class="note"></aside>
+				<script async src="{{site.baseurl}}/assets/footnotes.js"></script>
+			{% endif %}
+
+		{% endif %}
+
+	</body>
+
 </html>
