@@ -111,12 +111,6 @@ span[data-note] {
   position: relative;
   margin: 0 auto 35px;
   text-align: center;
-  animation-duration: 0.7s;
-  animation-fill-mode: both;
-  animation-name: bounce;
-  -webkit-animation-duration: 0.7s;
-  -webkit-animation-fill-mode: both;
-  -webkit-animation-name: bounce;
   a {
     background: #ddd url("gravatar_wrapper.png");
     color: #000;
@@ -133,7 +127,7 @@ span[data-note] {
     box-sizing: border-box;
     &:hover,
     &:focus {
-      background: #f14e32;
+      background: #2ECC40;
     }
     &:hover + .logo-prompt,
     &:focus + .logo-prompt {
