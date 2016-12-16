@@ -26,11 +26,11 @@ layout: default
 <div class="page-navigation">
 	{% if page.next.url %}
     <a class="next" href="{{page.next.url}}" title="NEXT: {{page.next.title}}">forwards in time</a>
-		<span> &middot; &middot; </span>
+		<span> &middot; </span>
   {% endif %}
 		<a class="home" href="{{site.baseurl}}/" title="Back to Homepage">home</a>
   {% if page.previous.url %}
-		<span> &middot; &middot; </span>
+		<span> &middot; </span>
     <a class="prev" href="{{page.previous.url}}" title="PREV: {{page.previous.title}}">backwards in time</a>
   {% endif %}
 </div>
