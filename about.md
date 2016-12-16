@@ -7,7 +7,7 @@ Hey there! I'm a high school student living in Hawaii that really likes to daydr
 
 This blog is my attempt to be a more careful documenter and curator of my life, besides serving as my little place on the net. This is NOT meant to be a portfolio or a professional website.
 
-[The Cougar Times - Co-Editor-in-Chief and Webmaster, 2014-present](http://cougartimes.org)
+<p style="text-align: center;">[The Cougar Times - Co-Editor-in-Chief and Webmaster, 2014-present](http://cougartimes.org)
 
 [Goodreads](https://www.goodreads.com/knottheory)
 
@@ -19,4 +19,4 @@ This blog is my attempt to be a more careful documenter and curator of my life, 
 
 [Letterboxd](https://letterboxd.com/KnotTheory/)
 
-[Steam](http://steamcommunity.com/id/knottheory/)
+[Steam](http://steamcommunity.com/id/knottheory/)</p>
