@@ -157,6 +157,8 @@ iframe {
 }
 ul,
 ol {
+  font-size: 18px;
+  line-height: 1.45em;
   margin: 40px 0;
   padding-left: 50px;
   li {
@@ -184,7 +186,7 @@ code {
   color: #f14e32;
   background: #eee;
   padding: 2px 6px;
-  font-size: 13px;
+  font-size: 14px;
 }
 pre {
   display: block;
@@ -249,6 +251,7 @@ article {
   }
   .footnote {
     border: 0;
+    text-decoration: none;
   }
   .footnotes {
     margin: 40px 0;
