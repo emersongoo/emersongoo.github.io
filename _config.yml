@@ -1,20 +1,20 @@
 # main text of home
-name: Jane Doe
-bio: A Girl who travels the world eating noodles
+name: Emerson Goo
+bio: Someone, somewhere.
 
 # twitter summary info
-description: A blog about technology and stuff related
+description: Emerson Goo - Landing Page
 
 picture: assets/images/picture.jpg
 
-url: http://koppl.in/violet
+url: http://emersongoo.github.io
 # your url: http://USERNAME.github.io
 
 # if you don't have any of social below, comment the line
-facebook: myfacebook
-twitter: mytwitter
-github: mygithub
-email: me@jane.doe
+# facebook: myfacebook
+# twitter: mytwitter
+# github: mygithub
+email: egoo.1234levelup@gmail.com
 
 gems:
   - jekyll-seo-tag
