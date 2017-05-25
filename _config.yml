@@ -1,52 +1,22 @@
-# Site Info
-title:              "Emerson Goo"
-description:        "My little corner of the internet."
-google_verify:       # Put your Google Verification here
-google_analytics:    # Put your Google Analytics code
+# main text of home
+name: Jane Doe
+bio: A Girl who travels the world eating noodles
 
-# Author Info
-author_name:        "Emerson Goo"
-author_email:       
-author_gravatar:    ff9906742d73a166e173969c846e7c48 # Gravatar md5 hash
+# twitter summary info
+description: A blog about technology and stuff related
 
-# Site Settings
-baseurl:            "" # Base URL must end WITHOUT a slash, default: ""
-permalink:          /posts/:title # Post permalink
-timezone:           Pacific/Honolulu # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
-mathjax:            true  # enables support for mathjax - set to false to disable
+picture: assets/images/picture.jpg
 
-# Site Build
-highlighter:        rouge
-#markdown:           redcarpet
-#redcarpet:
-#    extensions:     ["no_intra_emphasis", "fenced_code_blocks", "autolink", "tables", "with_toc_data", "highlight", "footnotes"]
-markdown:           kramdown
-kramdown:
-    input:          GFM
-sass:
-    style:          :compressed
+url: http://koppl.in/violet
+# your url: http://USERNAME.github.io
 
-# Other Params
-include:            [ "robots.txt" ]
-exclude:            [ "LICENSE", "README.md", "CNAME", "vendor", "Gemfile" ]
+# if you don't have any of social below, comment the line
+facebook: myfacebook
+twitter: mytwitter
+github: mygithub
+email: me@jane.doe
+
 gems:
-  - jekyll-sitemap
+  - jekyll-seo-tag
 
-
-
-defaults:
-  -
-    scope:
-      path:         ""
-    values:
-      layout:       "null"
-  -
-    scope:
-      type:         "pages"
-    values:
-      layout:       "page"
-  -
-    scope:
-      type:         "posts"
-    values:
-      layout:       "post"
+exclude: [README.md, Gemfile, Gemfile.lock, _site, Rakefile, travis.sh, vendor]
