@@ -1,80 +1,16 @@
-<p align="center">
-    <h2 align="center">Violet Jekyll Template - <a href="http://sergiokopplin.github.io/violet/">Demo</a> · <a href="https://travis-ci.org/sergiokopplin/violet"><img src="https://travis-ci.org/sergiokopplin/violet.svg?branch=gh-pages" alt="Build Status" /></a></h2>
-</p>
+# jekyll-simple
 
-<p align="center">A purple theme for girls and boys.</p>
+## simple
+simple is a theme designed for blogger using static site generator like jekyll, Hexo etc.
 
-<p align="center"><strong>Inspiration</strong>: <a href="http://cyberglot.me">Ju Gonçalves</a></p>
+Especially for those who writes in both Chinese and English. The font-type setting looks really good when writers use Chinese mixed with English.
 
-***
+Supposedly, this could work with Japanese as well but never had a chance to try.
 
-<p align="center">
-    <b><a href="README.md#what-has-inside">What has inside?</a></b>
-    |
-    <b><a href="README.md#setup">Setup?</a></b>
-    |
-    <b><a href="README.md#settings">Settings</a></b>
-    |
-    <b><a href="README.md#tests">Tests</a></b>
-    |
-    <b><a href="README.md#donate">Donate</a></b>
-    |
-    <b><a href="README.md#problems">Problems</a></b>
-</p>
+## Story behind this theme
 
-<p align="center">
-    <img src="https://raw.githubusercontent.com/sergiokopplin/violet/gh-pages/violet.png" />
-</p>
+It has been long that using font with Chinese in web was a tedious and time-consuming work. It would be almost impossible to make different OS or devices to look the same.
 
-## What has inside?
+iOS 9 has pulished some new fonts in Chinese and I decided to make one theme that looks good on iOS devices, at the same time, making it acceptable on computers using other fonts.
 
-- [Jekyll](https://jekyllrb.com/) and [Sass](http://sass-lang.com/)
-- Tests with [Travis](https://travis-ci.org/)
-- No JS. :sunglasses:
-
-## Setup
-
-0. :star: to the project. :metal:
-1. [Install Jekyll](http://jekyllrb.com), [NodeJS](https://nodejs.org/) and [Bundler](http://bundler.io/).
-2. Fork the project [Violet](https://github.com/sergiokopplin/violet/fork)
-3. Edit `_config.yml` with your data.
-4. `bundle install`
-5. `bundle exec jekyll serve`
-6. open in your browser: `http://localhost:4000`
-
-## Settings
-
-You must fill some informations on `_config.yml` to customize your site.
-
-```
-name: Jane Doe
-bio: 'A Girl who travels the world eating noodles'
-...
-
-and lot of other options.
-```
-
-## Tests
-
-You can test your app with:
-
-```bash
-bundle exec htmlproofer ./_site
-````
-
-## Donate
-
-If you liked my work, buy me a coffee <3
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=U7B6UM6QWLG7E)
-
-## Problems?
-
-Tell me on github or open a [issue](https://github.com/sergiokopplin/violet/issues/new).
-
-#### Inspirations:
-- [Ju Gonçalves](http://cyberglot.me/)
-
----
-
-[MIT](http://kopplin.mit-license.org/) License © Sérgio Kopplin
+So mobile goes first, then the macOS.

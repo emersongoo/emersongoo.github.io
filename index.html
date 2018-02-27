@@ -3,57 +3,60 @@ layout: default
 title: Home
 ---
 
-{% include head.html %}
+<div class="home">
+  <div class="post-list">
 
-<header>
-<!-- <img alt="{{ site.name }} picture" src="{{ site.picture }}" /> -->
+    {% for post in site.posts limit:5%}
 
-  <h1>
-    <strong><a href="./">{{ site.name }}</a></strong>
-  </h1>
+    <article class="post_card post">
+      <header class="post_header">
+        <h2 class="post_title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a></h2>
+        <time class="post_date">{{ post.date | date: "%d %B %Y, %A" }}</time>
+      </header>
+      <div class="post_excerpt">
+        <p>
+          {% if post.description %}
+          {{ post.description}}
+          {% else %}
+          {{ post.excerpt }}
+          {% endif %} 
+          <a class="read-more" href="{{ post.url | prepend: site.baseurl }}"> »  </a>
+        </p> 
+      </div>
+      <footer class="post_meta">
 
-  <p>
-    Current Location:<br>
-    San Luis Obispo, California<br>
-    &#9188;<br>
-    Cal Poly SLO<br>
-    Class of 2022<br>
-    Landscape Architecture
-  </p>
 
-  <nav>
-    <ul>
-      <li><a href="assets/emersongoo_cv_current.pdf">cv/resume (pdf)</a>
-      <li><a href="https://spacestrafe.blogspot.com">blogspot</a></li>
-      <li><a href="https://twitter.com/{{ site.twitter }}">twitter (unused)</a></li>
-      <li><a href="https://instagram.com/{{ site.instagram }}">instagram (private)</a></li>
-      <li><a href="https://letterboxd.com/{{ site.letterboxd }}">letterboxd</a></li>
-      <li><a href="https://github.com/{{ site.github }}">github</a></li>
-      <li>&#9188;</li>
-      <li><a href="mailto:{{ site.email }}">eygoo AT calpoly DOT edu</a></li>
-    </ul>
-  </nav>
+        {% if post.location %}
+        <span class="author-location">
+          <div data-icon="ei-location"></div>
+          <a href=https://www.google.com/maps/place/{{post.location}}">{{ post.location }}</a>
+        </span>
+        {% endif %}
+        <!--
+        {% for category in post.categories %}
+        <a href="{{"/category/" | append: category | prepend: site.baseurl }}">
+          <data data-icon="ei-archive"></data>
+          {{category}}</a>
+        {% endfor %}
+        -->
 
-  <small>
-    made with <a href="https://github.com/sergiokopplin/violet">Violet</a>
-    <br> inspired by <a href="http://cyberglot.me/">Ju Gonçalves</a>
-  </small>
-</header>
+        <!--
+        {% if post.author %}
+        <span class="author_meta">
+          <img src="{{site.baseurl}}/assets/img/{{post.author}}.jpg"></img>
+          <span>David Lin</span>
+        </span>
+        {% endif %}
+        -->
 
-<section class="content">
-  <p>
-  I was born and raised in Honolulu, Hawaii. Hawaii is a place often spoken about in terms of periphery and remoteness, but it is the center of my world. I am interested in a design-based approach to moving Hawaii towards a sustainable model of island urbanism. I believe that good landscape design makes explicit the relationships between social and environmental justice.
-  </p>
-  <p>
-  Beyond my interests in landscape architecture, urban design, and planning, I am deeply passionate about cinema. I aim to contribute to contemporary critical discourse with an eye for how film records the landscapes in and around us. My main focus is independent and/or documentary film from the Asia-Pacific region. I try my best to help promote the local film scene in Hawaii.
-  </p>
-  <p>
-  I am profoundly deaf. I used to have a unilateral cochlear implant for the better part of my life up until now, but unfortunately had to have it removed a few years ago. I do not wear any hearing aids. For me, my deafness is a long story of medical and bureaucratic struggle, and of self-discovery and advocacy. To many others, it is simply invisible.
-  </p>
-  <p>
-  I enjoy music a lot, and have been involved in percussion performance for over six years. I also like playing the ukulele.
-  </p>
-  <p>
-  If you're looking for something, hopefully the links here will get you what you need. If not, shoot me an email.
-  </p>
-</section>
+        <!--p class="readmore">
+          <a href=""><data data-icon="ei-arrow-right"></data>Read this article  </a>
+        </p-->
+      </footer>
+      <hr/>
+    </article>
+    {% endfor %}
+
+    <div class="pagination older-post"><a href="./archive"><data data-icon="ei-arrow-right"></data> Archive  </a></div>
+  </div>
+</div>
