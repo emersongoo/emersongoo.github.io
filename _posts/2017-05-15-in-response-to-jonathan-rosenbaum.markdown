@@ -2,11 +2,11 @@
 layout: post
 title:  "In response to Jonathan Rosembaum re: A Touch of Sin"
 date:   2015-05-15 00:00:00 -0000
-categories: "2017"
 ---
 ![Left image: A motorcyclist surveys an overturned truck blocking the road ahead of him. Right image: A man watches a news story about a recent train disaster on his iPad.](/assets/atouchofsin.png)
 
 After watching *A Touch of Sin*, I was unsure how I wanted to write about it, so I looked up other critical appraisals of the film. While doing so I found a quote from Jonathan Rosenbaum, who harshly calls the film a "sellout":
+<!--description-->
 
 > Over five years later, now that I've recently caught up with Jia's episodic *A Touch of Sin*, I must confess that I find myself more than a little baffled by colleagues of mine who have praised these earlier films and now seem to find little difficulty in placing this semi-desperate sellout effort on the same plateau as his previous work. Despite the sincerity and urgency of the film's political content, its reduction of potentially interesting characters to pop-movie stereotypes seems to be at least partially and grimly acknowledged (and autocritiqued) by Jia's casting himself in a cameo as a customer at a sleazy upscale bordello. This is the only time I've felt disappointed or betrayed by any of his films.
 
