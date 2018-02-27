@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "In response to Jonathan Rosenbaum re: A Touch of Sin"
-date:   2015-05-15 00:00:00 -0000
+date:   2017-05-15 00:00:00 -0000
 categories: film
 ---
 ![Left image: A motorcyclist surveys an overturned truck blocking the road ahead of him. Right image: A man watches a news story about a recent train disaster on his iPad.](/assets/atouchofsin.png)
