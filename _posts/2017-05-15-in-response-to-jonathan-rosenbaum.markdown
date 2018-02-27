@@ -4,8 +4,8 @@ title:  "In response to Jonathan Rosenbaum re: A Touch of Sin"
 date:   2017-05-15 00:00:00 -0000
 categories: film
 ---
-<a href="/assets/img/atouchofsin.jpg" data-lightbox="image-1" data-title="A Touch of Sin (2013)">
-  <img src="/assets/img/atouchofsin.jpg">
+<a href="/assets/img/atouchofsin.png" data-lightbox="image-1" data-title="A Touch of Sin (2013)">
+  <img src="/assets/img/atouchofsin.png">
 </a>
 
 After watching *A Touch of Sin*, I was unsure how I wanted to write about it, so I looked up other critical appraisals of the film. While doing so I found a quote from Jonathan Rosenbaum, who harshly calls the film a &ldquo;sellout&rdquo;:
