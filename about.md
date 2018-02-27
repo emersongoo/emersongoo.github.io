@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: About Me
 permalink: /about/
 ---
 I was born and raised in Honolulu, Hawaii. Hawaii is a place often spoken about in terms of periphery and remoteness, but it is the center of my world. I am interested in a design-based approach to moving Hawaii towards a sustainable model of island urbanism. I believe that good landscape design makes explicit the relationships between social and environmental justice.
@@ -11,6 +11,6 @@ I am profoundly deaf. I used to have a unilateral cochlear implant for the bette
 
 I enjoy music a lot, and have been involved in percussion performance for over six years. I also like playing the ukulele.
 
-If you're looking for something, hopefully this site will get you what you need. If not, [shoot me an email](mailto:eygoo@calpoly.edu).
+If you&rsquo;re looking for something, hopefully this site will get you what you need. If not, [shoot me an email](mailto:eygoo@calpoly.edu).
 
 [Resume/CV](/assets/emersongoo_cv_current.pdf)
