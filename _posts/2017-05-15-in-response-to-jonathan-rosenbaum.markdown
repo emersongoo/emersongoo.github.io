@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  In response to Jonathan Rosenbaum's thoughts on A Touch of Sin
+title:  "In response to Jonathan Rosenbaum re: A Touch of Sin"
 date:   2015-05-15 00:00:00 -0000
 categories: film
 ---
