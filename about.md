@@ -9,8 +9,8 @@ As a writer and film programmer, I am particularly passionate about independent 
 
 I am profoundly deaf. I used to have a unilateral cochlear implant for the better part of my life up until now, but unfortunately had to have it removed a few years ago. I do not wear any hearing aids. For me, my deafness is a long story of medical and bureaucratic struggle, and of self-discovery and advocacy. To many others, it is simply invisible.
 
-I enjoy music a lot, and have been involved in percussion performance for over six years. I also like playing the ukulele.
+I have been involved in percussion performance for close to seven years. I also like playing the ukulele.
 
 If you&rsquo;re looking for something, hopefully this site will get you what you need. If not, [shoot me an email](mailto:eygoo@calpoly.edu).
 
-[Resume/CV](/assets/emersongoo_cv_current.pdf)
+[Resume](/assets/emersongoo_resume_current.pdf)
