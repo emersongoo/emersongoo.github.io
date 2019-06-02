@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Circular Breathing: on Christopher Makoto Yogi&rsquo;s August at Akiko&rsquo;s"
-date:   2018-06-01 00:00:00 -0000
+date:   2019-06-01 00:00:00 -0000
 categories: film
 ---
 <a href="/assets/img/augustatakikos.jpg" data-lightbox="image-1" data-title="August at Akiko&rsquo;s (2018)">
