@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Circular Breathing: on Christopher Makoto Yogi&rsquo;s August at Akiko&rsquo;s"
+date:   2018-06-01 00:00:00 -0000
+categories: film
+---
+<a href="/assets/img/augustatakikos.jpg" data-lightbox="image-1" data-title="August at Akiko&rsquo;s (2018)">
+  <img src="/assets/img/augustatakikos.jpg">
+</a>
+
+In 1967, the experimental composer Pauline Oliveros writes of a bulldozer: “…its motor is a cascade of harmonics defining the space between it and the Rock and Roll playing in the next room. Sounds of birds, insects, children&rsquo;s voices and the rustling of trees fleck this space.” The sound of the bulldozer joins the drones of passing airplanes and distant freeways, a nervous system of vibrations that links up with her own. It even pushes through time, recalling an incident in which one unexpectedly came through her house: “The driver looked at me, backed out, and continued to operate the bulldozer.”
+<!--description-->
+
+These observations exemplify Oliveros&rsquo; approach to “deep listening” as a meditative awareness of the body in one&rsquo;s environmental surroundings. And they also resonate with Christopher Makoto Yogi&rsquo;s debut feature, *August at Akiko&rsquo;s*. The film opens on a peripatetic saxophonist (Alex Zhang Hungtai, playing himself) en route to Hawaiʻi Island, where he finds his childhood house has been similarly bulldozed. In need of a place to stay, Alex wanders into the Zen bed-and-breakfast of longtime Hamakua resident Akiko Masuda (also playing herself).
+
+Yogi structures the film&rsquo;s rhythms around the simple act of breathing, an important aspect of meditation and musicianship alike. In breath, listening becomes respiratory, engaging the body, not the ear. It&rsquo;s a lesson Akiko passes on to Alex as he sits in silence with her early each morning, drawn inwards towards images of his grandparents (Steve Iwamoto, Robbie Kane). These dream-like interludes are captured in drifting slow-motion by cinematographers Eunsoo Cho and Jose Asuncion, who were set loose amongst the actors in a dense bamboo forest.
+
+As the days go by, Alex is welcomed into the local community, though his bashful demeanor never quite resolves. Some choice questioning by Akiko and the antics of one young, long-haired child (Phoenix Yamashiro) help him gradually open up, but he waves away inquiries into his background as “a long story.” This contrast between Alex&rsquo;s cosmopolitan anonymity and the overgrowth of history surrounding him makes clear that his journey towards self-identity is not a typical narrative of diasporic return. We are not given access to whatever ancestry Alex seeks to rediscover, if any exists. Here, the past is uncollected baggage.
+
+Alex&rsquo;s own rousing musical improvisations punctuate the film, articulating these emotions in lieu of words. But it is the soundscape of the natural world itself that introduces another undercurrent of tension: that of ecological destruction. One night, unable to sleep amidst the incessant chirps of coqui frogs, Alex heads outside to find the source of his annoyance. The camera tracks him in the darkness as he moves behind a small tree, his phone flash fringing its leaves as he passes by. It&rsquo;s a visual that echoes a similar scene in Apichatpong Weerasethakul&rsquo;s *Tropical Malady*, except its mythic, predatory tiger is traded in for a small, introduced frog, which has devastated native insect populations.
+
+Or, take the film&rsquo;s documentation of rapid ʻōhiʻa death, an introduced fungal disease affecting native ʻōhiʻa trees across Hawaiʻi Island. While working outdoors one day, Alex cranes his neck towards a stand of dying trees (he seldom meets anyone, or anything at eye level in the film), taking pause at their unusual appearance. As the film drives towards its conclusion, one is left wondering how Alex himself fits into this framework. The aloha shirt he dons in nearly every scene is reminiscent of the coloration of yet another troublesome invasive, the gold dust day gecko (well-known as the GEICO mascot). What defines one as an outsider? What does it really mean to call a place home?
+
+Instead of attempting to answer these questions his own way, Yogi defers to the guidance of elders: people like Akiko, and the land itself, which introduce the possibility of renewal. In its final scenes, the film&rsquo;s freeform narrative matures into an abstract, emotional intensity heretofore unexpressed. With a chant from Akiko (Edith Kanakaʻole&rsquo;s E Hō Mai), and a trip into a vast lava field, where the earth itself breathes its own destruction and creation, Alex enters the opening of a vast underground cave. His descent takes us back to Oliveros, who coined the term “deep listening” as a pun on her own experience recording in a similarly large, underground cistern.
+
+Suddenly, the cave resolves into an empty theater, attended by ghosts, recalling the ending of Tsai Ming-Liang&rsquo;s *Goodbye, Dragon Inn*. But this film is no swan song: after an ending there is always a beginning. *August at Akiko&rsquo;s* is a testament to the wisdom and character of its titular woman, and a portrayal of the kind of small-town island community not often seen on film. Most importantly, it&rsquo;s about the potential of that community to embrace and heal those unsure of the breaths they take; to listen to Alex&rsquo;s final performance is to witness the confidence of a musician who has found the center of his universe in what others might call the middle of nowhere.
+
+*Originally written to accompany screenings at the Honolulu Museum of Art, June 1–4*
