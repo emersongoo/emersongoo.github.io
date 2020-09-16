@@ -25,4 +25,4 @@ Instead of attempting to answer these questions his own way, Yogi defers to the 
 
 Suddenly, the cave resolves into an empty theater, attended by ghosts, recalling the ending of Tsai Ming-Liang&rsquo;s *Goodbye, Dragon Inn*. But this film is no swan song: after an ending there is always a beginning. *August at Akiko&rsquo;s* is a testament to the wisdom and character of its titular woman, and a portrayal of the kind of small-town island community not often seen on film. Most importantly, it&rsquo;s about the potential of that community to embrace and heal those unsure of the breaths they take; to listen to Alex&rsquo;s final performance is to witness the confidence of a musician who has found the center of his universe in what others might call the middle of nowhere.
 
-*Originally written to accompany screenings at the Honolulu Museum of Art, June 1–4*
+*Originally written to accompany screenings at the Honolulu Museum of Art, June 1–4, 2019*
