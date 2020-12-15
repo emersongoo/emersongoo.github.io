@@ -4,7 +4,7 @@ title:  "Circular Breathing: on Christopher Makoto Yogi&rsquo;s August at Akiko&
 date:   2019-06-01 00:00:00 -0000
 categories: film
 ---
-<a href="/assets/img/augustatakikos.jpg" data-lightbox="image-1" data-title="August at Akiko&rsquo;s (2018)">
+<a href="/assets/img/augustatakikos.jpg" data-lightbox="2019-06-01" data-title="August at Akiko&rsquo;s (2018)">
   <img src="/assets/img/augustatakikos.jpg">
 </a>
 

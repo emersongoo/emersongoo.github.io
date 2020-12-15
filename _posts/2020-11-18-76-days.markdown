@@ -1,0 +1,13 @@
+---
+layout: post
+title:  "76 Days (2020)"
+date:   2020-11-18 00:00:00 -0000
+categories: film
+---
+<a href="/assets/img/76-days.jpg" data-lightbox="2020-11-18" data-title="76 Days (2020)">
+  <img src="/assets/img/76-days.jpg">
+</a>
+
+For Screen Slate, I wrote about [*76 Days*](https://www.screenslate.com/articles/405), a documentary by Hao Wu, Weixi Chen, and Anonymous filmed in Wuhan during its COVID-19 lockdown.
+
+> *76 Days*...is a moving reminder that we can always provision a family for ourselves out of the people around us, and that we long for the mutual comfort found in caring for parents and children, no matter who they are.

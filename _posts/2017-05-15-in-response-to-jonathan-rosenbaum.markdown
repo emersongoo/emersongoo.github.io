@@ -4,7 +4,7 @@ title:  "In response to Jonathan Rosenbaum re: A Touch of Sin"
 date:   2017-05-15 00:00:00 -0000
 categories: film
 ---
-<a href="/assets/img/atouchofsin.png" data-lightbox="image-1" data-title="A Touch of Sin (2013)">
+<a href="/assets/img/atouchofsin.png" data-lightbox="2017-05-15" data-title="A Touch of Sin (2013)">
   <img src="/assets/img/atouchofsin.png">
 </a>
 
