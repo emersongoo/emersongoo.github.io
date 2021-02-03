@@ -8,6 +8,6 @@ categories: film
   <img src="/assets/img/76-days.jpg">
 </a>
 
-For Screen Slate, I wrote about [*76 Days*](https://www.screenslate.com/articles/405), a documentary by Hao Wu, Weixi Chen, and Anonymous filmed in Wuhan during its COVID-19 lockdown.
+For Screen Slate, I wrote about *76 Days*, a documentary by Hao Wu, Weixi Chen, and Anonymous filmed in Wuhan during its COVID-19 lockdown. [[External Link: Screen Slate]](https://www.screenslate.com/articles/405)
 
 > *76 Days*...is a moving reminder that we can always provision a family for ourselves out of the people around us, and that we long for the mutual comfort found in caring for parents and children, no matter who they are.
